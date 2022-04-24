@@ -1,5 +1,7 @@
 # gcal
-Google Calender App
+Mail Browser Client as Snap or .deb
+
+change the link to your email browser link in index.js
 
 # How to compile
 

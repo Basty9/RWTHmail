@@ -1,9 +1,9 @@
 
 {
-  "name": "gcal",
+  "name": "rwth-mail-app",
   "version": "1.0.0",
   "license": "MIT",
-  "description": "Google Calender App",
+  "description": "RWTH Mail Client App",
   "author": "Sebastian Caroli <sebastian.caroli@rwth-aachen.de>",
   "main": "./src/index.js",
   "homepage": "https://github.com/Basty9/gcal",
@@ -14,19 +14,19 @@
     "dist": "electron-builder"
   },
   "build": {
-    "appId": "gcal",
+    "appId": "rwth-mail-app",
     "linux":{
       "target":[
           "deb",
           "snap",
           "AppImage"
       ],
-      "icon": "./resources/icon512.svg",
+      "icon": "./resources/rwth.svg",
       "category":"Utilities"
     },
     "win": {
       "target": "squirrel",
-      "icon": "./resources/icon512.svg"
+      "icon": "./resources/rwth.svg"
     }
   },
   "dependencies": {},

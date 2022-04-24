@@ -10,7 +10,7 @@ const createWindow = () => {
   });
 
   mainWindow.maximize();
-  mainWindow.loadURL("https://calendar.google.com/calendar/u/0/r/week")
+  mainWindow.loadURL("https://mail.rwth-aachen.de/owa/?bO=1#path=/mail/inbox")
 
   // // and load the index.html of the app.
   // mainWindow.loadFile(path.join(__dirname, 'index.html'));
