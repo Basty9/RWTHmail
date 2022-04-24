@@ -1,4 +1,4 @@
-# gcal
+# RWTH MAIL CLIENT APP
 Mail Browser Client as Snap or .deb
 
 change the link to your email browser link in index.js
