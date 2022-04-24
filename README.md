@@ -2,6 +2,7 @@
 Mail Browser Client as Snap or .deb
 
 change the link to your email browser link in index.js
+adjust icon in ./resources/
 
 # How to compile
 
